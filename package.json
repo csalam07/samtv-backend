@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "netflix",
+    "netflix replica",
+    "netflix clone",
+    "netflix backend",
+    "netflix MERN"
+  ],
+  "author": "csalam07",
+  "license": "ISC"
+}
